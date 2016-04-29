@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/iguest/Desktop/android-hello-world/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/iguest/Desktop/android-hello-world/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 2,
+                        "startOffset": 14,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/Users/iguest/Desktop/android-hello-world/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 61,
+                        "endColumn": 50,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

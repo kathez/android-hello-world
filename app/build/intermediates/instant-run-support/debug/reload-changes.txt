@@ -1,0 +1,5 @@
+CHANGED,/Users/iguest/Desktop/android-hello-world/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sqisland/android/hello/MainActivity$override.class
+CHANGED,/Users/iguest/Desktop/android-hello-world/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sqisland/android/hello/R$string$override.class
+CHANGED,/Users/iguest/Desktop/android-hello-world/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/iguest/Desktop/android-hello-world/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sqisland/android/hello/R$override.class
+CHANGED,/Users/iguest/Desktop/android-hello-world/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sqisland/android/hello/R$layout$override.class
