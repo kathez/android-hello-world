@@ -1,5 +1,89 @@
 [
     {
+        "outputFile": "/Users/iguest/Documents/android-hello-world/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/iguest/Documents/android-hello-world/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/iguest/Documents/android-hello-world/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 48,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/iguest/Documents/android-hello-world/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 40,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/Users/iguest/Documents/android-hello-world/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 155,
+                        "endColumn": 38,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 52,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/iguest/Documents/android-hello-world/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 44,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/iguest/Documents/android-hello-world/app/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/iguest/Desktop/android-hello-world/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
