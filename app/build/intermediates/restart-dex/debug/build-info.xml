@@ -4,26 +4,26 @@
     api-level="23"
     density="hdpi"
     format="7"
-    timestamp="253850199339734" >
+    timestamp="255669253412337" >
 
     <task
         name="javac"
-        duration="45" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="0" />
     <task
         name="verifier"
-        duration="10" />
+        duration="0" />
 
     <artifact
         location="/Users/iguest/Desktop/android-hello-world/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="253850199339734" >
+    <build timestamp="255669253412337" >
         <artifact
             location="/Users/iguest/Desktop/android-hello-world/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
