@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/iguest/Documents/android-hello-world/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/iguest/Documents/android-hello-world/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/iguest/Desktop/android-hello-world/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
         "source": "/Users/iguest/Desktop/android-hello-world/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
